@@ -3,7 +3,7 @@
   <groupId>me.elordenador</groupId>
   <artifactId>PracticaSegundoTrimestre1DAW</artifactId>
   <versioning>
-    <lastUpdated>20250214105302</lastUpdated>
+    <lastUpdated>20250214111528</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20250214105302</updated>
+        <updated>20250214111528</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20250214105302</updated>
+        <updated>20250214111528</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
